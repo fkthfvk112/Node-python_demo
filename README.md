@@ -1,4 +1,4 @@
-[child_process]('https://nodejs.org/api/child_process.html)
+[child_process](https://nodejs.org/api/child_process.html)
 
  + 위 문서를 읽으면 서브 프로세스 사용법을 익힐 수 있음
  + 대략적으로 spawn함수를 이용하게 되는데 아래와 같은 인자를 가짐
